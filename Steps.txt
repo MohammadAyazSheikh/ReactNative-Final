@@ -1,0 +1,23 @@
+===============4==========
+rating and A2 in dishtedailComp
+
+===============5==========
+--> Swipe Option Buttons and Alerts in favouriteComp
+
+-> Animations starts  in HomeComp
+
+-> Gesture in DishdetailComp renderMenu fucntion
+
+->Persist Redux Store Starts in configureStore.js
+
+-> A3 (Alert) in ReservartionComp
+
+-> secure store in LoginComp in LogInTab line 24
+
+-> tabNavigation in LoginComp RegTab in line 248
+
+-> local notification in ReservationComp
+
+-> mailComposer in contactComp
+
+-> network info adn taostAnroid in Main comp

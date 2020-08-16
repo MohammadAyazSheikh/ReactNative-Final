@@ -1,0 +1,12 @@
+yarn add react-native-elements@beta
+yarn add react-navigation@2.0.1
+json-server --host 192.168.0.108 db.json -p 3001 -d 1000
+yarn add react-native-datepicker@1.7.2
+yarn add react-native-swipeout@2.3.3
+expo install expo-secure-store
+import * as Permissions from 'expo-permissions';
+expo install expo-mail-composer
+expo install expo-image-picker
+expo install expo-asset
+expo install expo-image-manipulator
+yarn add @react-native-community/netinfo
